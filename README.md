@@ -1,5 +1,6 @@
 # RFM-Sales-Analysis-
-RFM Sales Analysis using SQL Server .
+Project Desciption -
+This project showcases the use of SQL for exploratory data analysis and generating actionable insights from sales data. The detailed analysis provides a comprehensive understanding of sales performance across different dimensions and helps inform strategic decisions.Performed RFM (Recency, Frequency, Monetary) analysis to segment customers based on their purchase behavior. Identified segments such as 'lost customers', 'slipping away, cannot lose', 'new customers', 'potential churners', 'active', and 'loyal'.
 
 ![image](https://github.com/Shubhi67/RFM-Sales-Analysis-/assets/126231638/7abb5351-3577-4d8b-903f-8dfba20ebd28)
 
